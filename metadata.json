@@ -1,0 +1,6 @@
+{
+  "name": "Space Defender",
+  "description": "A simple and beginner-friendly browser shooting game with smooth keyboard movement, continuous shooting, colorful spaceships, and gentle gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
